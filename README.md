@@ -1,16 +1,29 @@
-### Hi there 👋
 
-<!--
-**AMANSINGHSTM/AMANSINGHSTM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Hello, I am  Aman Kumar**
+
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+
+- ♂️ Pronouns (He/His/Him)
+- 📍 I live in Bihar, India
+- I'm a Frontend Developer skilled at problem-solving in the implement project life cycle from Design scratch  to build in project. 
+
+- I  have a persistent professional  experience of build and developing in the information Technology industry's in which explorer and best practice.
+- My Tech Stack: React.js,  TailwindCSS, Figma
+- Languages I know: JavaScript,   C/C++,   HTML, CSS/SCSS
+
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+
+- My socials are listed below
+
+
+  -  LinkedIn at [Aman Singh ](https://www.linkedin.com/in/aman-singh-6b78a524b/)
+  
+  
+  - Twitter at [Aman Singh ](https://twitter.com/AmanSin73213855)
+  
+  - Mail me at **amansinghstm012@gmail.com** regarding any questions 
+
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
